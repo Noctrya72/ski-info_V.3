@@ -64,7 +64,7 @@ const stations = {
             plan: "https://www.alpedhuez.com/wp-content/uploads/2025/11/PLAN-DES-PISTES-HIVER-2025-2026.pdf"
         },
 
-        "Val Thorens": {
+        "Val Thorens (3 vallées)": {
             lat: 45.297,
             lon: 6.580,
             url: "https://www.valthorens.com",
@@ -102,7 +102,7 @@ const stations = {
             plan: "https://www.datocms-assets.com/146703/1734512761-plan_megeve_hiver.pdf?dl=plan_megeve_hiver.pdf"
         },
 
-        "Courchevel": {
+        "Courchevel (3 vallées)": {
             lat: 45.415,
             lon: 6.634,
             url: "https://www.courchevel.com",
@@ -173,6 +173,39 @@ const stations = {
             webcam: "https://www.lessaisies.com/webcams/",
             plan: "https://www.lessaisies.com/app/uploads/les-saisies/2024/01/espace-diamant-hiver-2023-2024_HD.pdf",
         },
+
+        "Valloire": {
+            lat: 45.164497,
+            lon: 6.430956,
+            url: "https://www.valloire.net/",
+            webcam: "https://www.valloire.net/webcams-valloire/",
+            plan: "https://www.valloire.com/medias/images/prestataires/plan-des-pistes-de-valloire-valmeinier-372.pdf",
+        },
+
+        "Val Cenis": {
+            lat: 45.274581,
+            lon: 6.816975,
+            url: "https://www.valcenis.com/",
+            webcam: "https://www.valcenis.com/webcams/",
+            plan: "https://www.cgh-residences.com/documents/plan-pistes/plan-pistes-valcenis.pdf",
+        },
+
+        "Montgenèvre": {
+            lat: 44.929961,
+            lon: 6.722583,
+            url: "https://montgenevre.com/",
+            webcam: "https://montgenevre.com/hiver/en-direct/webcams-montgenevre",
+            plan: "https://montgenevre.com/wp-content/uploads/2020/03/plan_mtg_2020.pdf",
+        },
+
+        "Orcières": {
+            lat: 44.697378,
+            lon: 6.322239,
+            url: "https://www.orcieres.com/",
+            webcam: "https://www.orcieres.com/live/webcams/",
+            plan: "https://www.orcieres.com/app/uploads/orcieres/2025/09/Plan_des_pistes_Orcieres_2024_2025.pdf",
+        },
+
     },
 
     Pyrénées: {
@@ -190,8 +223,16 @@ const stations = {
             url: "https://www.grandvalira.com",
             webcam: "https://www.grandvalira.com/fr/webcams",
             plan: "https://www.grandvalira.com/fr/plan-des-pistes"
-        }
-    }
+        },
+
+        "Peyragudes": {
+            lat: 42.789864,
+            lon: 0.446364,
+            url: "https://peyragudes.com/",
+            webcam: "https://peyragudes.com/webcams-live/",
+            plan: "https://peyragudes.com/wp-content/uploads/2024/04/Plan-des-pistes-compresse-peyragudes-ALPIN-2023-2024_0.pdf",
+        },
+    },
 };
 
 window.onload = () => {
