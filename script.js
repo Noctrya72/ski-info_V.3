@@ -341,6 +341,56 @@ const stations = {
             webcam: "https://www.grand-massif.com/webcams/#les-carroz",
             plan: "https://www.grand-massif.com/content/uploads/2025/12/GM_PlanPistes-1.pdf",
         },
+
+        "7 Laux": {
+            lat: 45.255914,
+            lon: 5.995550,
+            url: "https://www.les7laux.com/hiver/",
+            webcam: "https://www.les7laux.com/hiver/ski-alpin-nordique-autres-glisses/ski/webcams/",
+            plan: "https://www.les7laux.com/app/uploads/les-sept-laux/2022/09/H22-PlanDesPistes_web.pdf",
+        },
+
+        "Oz 3300": {
+            lat: _,
+            lon: _,
+            url: "",
+            webcam: "",
+            plan: "",
+        },
+
+        "Les Karellis": {
+            lat: 45.227811,
+            lon: 6.404394,
+            url: "https://www.karellis.com/",
+            webcam: "https://www.karellis.com/webcams/",
+            plan: "https://www.vtf-vacances.com/media/rich-editor/plandespisteskarellis-630f6a62346de.pdf",
+        },
+
+        "Villard de Lans/Corrençon": {
+            lat: _,
+            lon: _,
+            url: "https://www.villarddelans-correnconenvercors.com/",
+            webcam: "https://www.villarddelans-correnconenvercors.com/live/webcams-2/",
+            plan: "https://www.calameo.com/read/0009329366bfa1850172f",
+        },
+
+        "": {
+            lat: _,
+            lon: _,
+            url: "",
+            webcam: "",
+            plan: "",
+        },
+
+        "": {
+            lat: _,
+            lon: _,
+            url: "",
+            webcam: "",
+            plan: "",
+        },
+
+
     },
 
     Pyrénées: {
@@ -415,12 +465,12 @@ const stations = {
             plan: "https://abonnement.guzet.ski/media/upload/guzetppu/cms/media/base_station/Plan%20pistes%20-%20Guzet_compressed.pdf",
         },
 
-        "": {
+        "Luchon-Superbagnères": {
             lat: 42.768233,
-            lon: 0.577381,
-            url: "",
-            webcam: "",
-            plan: "",
+            lon: 0.577381                      ,
+            url: "https://www.haute-garonne-montagne.com/luchon-superbagneres-hiver/",
+            webcam: "https://www.haute-garonne-montagne.com/luchon-superbagneres-hiver/webcams-luchon-superbagneres/",
+            plan: "https://pyrenees.media.tourinsoft.eu/upload/Plan-pistes-web-Superbagneres-2021-22-2.pdf",
         },
     },
 
